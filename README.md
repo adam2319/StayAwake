@@ -3,4 +3,9 @@ Another solution for the lock screen problem. This script sends a NumLock key ev
 ##
 
 ## Screenshot:
-![Main screen](raw/screenshot.png)
+
+<div align="center">
+  
+![Main screen](screenshot.PNG)
+  
+</div>
