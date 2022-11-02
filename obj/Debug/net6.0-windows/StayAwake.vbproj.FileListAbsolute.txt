@@ -1,0 +1,17 @@
+C:\Users\Andr0ss\source\repos\StayAwake\bin\Debug\net6.0-windows\StayAwake.exe
+C:\Users\Andr0ss\source\repos\StayAwake\bin\Debug\net6.0-windows\StayAwake.deps.json
+C:\Users\Andr0ss\source\repos\StayAwake\bin\Debug\net6.0-windows\StayAwake.runtimeconfig.json
+C:\Users\Andr0ss\source\repos\StayAwake\bin\Debug\net6.0-windows\StayAwake.dll
+C:\Users\Andr0ss\source\repos\StayAwake\bin\Debug\net6.0-windows\StayAwake.pdb
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.vbproj.AssemblyReference.cache
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.Form1.resources
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.vbproj.GenerateResource.cache
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.AssemblyInfoInputs.cache
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.AssemblyInfo.vb
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.vbproj.CoreCompileInputs.cache
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.dll
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\refint\StayAwake.dll
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.pdb
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\StayAwake.genruntimeconfig.cache
+C:\Users\Andr0ss\source\repos\StayAwake\obj\Debug\net6.0-windows\ref\StayAwake.dll
